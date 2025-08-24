@@ -13,7 +13,7 @@ Responsive and user-friendly interface
 
 Works directly in the browser (no installation needed)
 
-🔹 Live Demo
+🔹 Live Demo : https://sonamsrivastava555.github.io/Calculator/
 
 Check the live calculator here:
 

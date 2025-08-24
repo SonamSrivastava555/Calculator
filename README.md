@@ -25,7 +25,5 @@ Check the live calculator here:
 🔹 Technologies Used
 
 HTML
-
 CSS
-
 JavaScript
